@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93173" started-at="2014-09-11T12:30:59Z" finished-at="2014-09-11T12:32:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93173" started-at="2014-09-11T12:30:59Z" finished-at="2014-09-11T12:32:32Z">
+      <class name="skyscape.Login_data">
+        <test-method status="PASS" signature="setup()[pri:0, instance:skyscape.Login_data@121bf53]" name="setup" is-config="true" duration-ms="1172" started-at="2014-09-11T18:00:58Z" finished-at="2014-09-11T18:00:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Login_All_scenarios()[pri:0, instance:skyscape.Login_data@121bf53]" name="Login_All_scenarios" duration-ms="93111" started-at="2014-09-11T18:00:59Z" finished-at="2014-09-11T18:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_All_scenarios -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:skyscape.Login_data@121bf53]" name="tearDown" is-config="true" duration-ms="700" started-at="2014-09-11T18:02:32Z" finished-at="2014-09-11T18:02:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- skyscape.Login_data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
